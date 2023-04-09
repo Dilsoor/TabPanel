@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+}
+
+.tabNavigation{
+    display: flex;
+    gap: 35px;
+    font-size: 48px;
+    justify-content: center;
+}
+
+.active{
+    color: blue;
+}
